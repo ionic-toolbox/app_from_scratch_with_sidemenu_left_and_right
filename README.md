@@ -1,5 +1,5 @@
 # Ionic Sidemenu App
-This is a sample Ionic 2 App to demonstrate let and right Sidemenues.
+This is a sample Ionic 2 App to demonstrate left and right Sidemenues.
 
 
 # Installation
