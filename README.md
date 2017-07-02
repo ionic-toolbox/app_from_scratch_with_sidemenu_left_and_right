@@ -8,3 +8,9 @@ $ git clone https://github.com/ionic-toolbox/app_from_scratch_with_sidemenu_left
 $ npm install
 $ ionic serve
 ```
+
+# App
+
+![alt text](https://github.com/ionic-toolbox/app_from_scratch_with_sidemenu_left_and_right/blob/master/doc/homepage.png)
+![alt text](https://github.com/ionic-toolbox/app_from_scratch_with_sidemenu_left_and_right/blob/master/doc/sidemenu_left.png)
+![alt text](https://github.com/ionic-toolbox/app_from_scratch_with_sidemenu_left_and_right/blob/master/doc/sidemenu_right.png)
