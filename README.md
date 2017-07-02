@@ -1,0 +1,1 @@
+# app_from_scratch_with_sidemenu_left_and_right
